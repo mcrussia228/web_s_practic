@@ -107,6 +107,11 @@ main .main__about{
   display: none;
 }
 
+.about__right li{
+  background: url(img/li_ico.png)
+}
+
+
 
 @media screen and (max-width: 1010px) {
   .topnav a{
