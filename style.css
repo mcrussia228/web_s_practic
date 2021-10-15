@@ -33,7 +33,7 @@ header{
 
 .topnav{
   text-transform: uppercase;
-
+  height: 49px
 }
 
 nav{
@@ -107,10 +107,9 @@ main .main__about{
   display: none;
 }
 
-.about__right li{
-  background: url(img/li_ico.png)
+.about__right img{
+  width: 13px;
 }
-
 
 
 @media screen and (max-width: 1010px) {
